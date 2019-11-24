@@ -7,6 +7,9 @@ const RedirectPushAction = () => {
         let render = null;
         if (redirect) {
             render = <Redirect to="/redirectpush" push={true} />
+            
+            // in order wait until commiting to the DOM
+            // and get back the button for clicking next time
             setTimeout(() => setRedirect(false), 0);
         }
         return render;

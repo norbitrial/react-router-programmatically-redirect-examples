@@ -11,13 +11,6 @@ import RedirectPushResult from './RedirectPushResult';
 import './App.css';
 
 const App = () => {
-  // https://reacttraining.com/react-router/web/api/withRouter
-  // https://reacttraining.com/react-router/web/api/HashRouter
-  // https://reactjs.org/docs/hooks-reference.html#usecontext
-  // https://reacttraining.com/react-router/web/api/Redirect
-  // 👍 👌 ⚠️
-
-
   return <div className="app">
     <h1>React Router Programmatically Redirect Examples</h1>
     <h2>This solution represents different programmatically possible redirect options for React App. <span role="img" aria-label="redirect">➡️</span></h2>
