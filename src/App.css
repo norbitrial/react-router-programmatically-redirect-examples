@@ -23,7 +23,8 @@ h3 {
 .routing {
     width: 50%;
     margin: 0 auto;
+    padding: 10px 10px 10px 10px;
     border: 1px solid lightgray;
     border-radius: 10px 10px;
-    min-height: 25vh;
+    min-height: 28vh;
 }
