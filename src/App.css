@@ -1,0 +1,30 @@
+.app {
+    text-align: center;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+.actions {
+    display: flex;
+    justify-content: center;
+}
+
+.actions button {
+    margin: 1vh;
+    border-radius: 2px;
+}
+
+.routing {
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid lightgray;
+    border-radius: 10px 10px;
+    min-height: 28vh;
+}

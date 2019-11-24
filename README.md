@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/norbitrial/react-router-programmatically-redirect-examples.svg?branch=master)](https://travis-ci.com/norbitrial/react-router-programmatically-redirect-examples)
+
 ## React Router Programmatically Redirect Examples
 
 This solution represents different programmatically possible redirect options for React App. ➡️
